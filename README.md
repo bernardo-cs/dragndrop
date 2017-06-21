@@ -2,6 +2,9 @@
 
 To have drag n drop. All you need is HTML DOM events.
 
+![Drag and Drop example](/../images/images/dragndrop.gif?raw=true)
+
+
 ## How to:
 
 Make the HTML element draggable:
