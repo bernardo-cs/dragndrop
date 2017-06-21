@@ -1,6 +1,10 @@
 # Angular (2+, AngularTS) Drag and Drop example
 
-To have drag n drop. All you need is HTML DOM events. [Source](https://github.com/golfadas/dragndrop/blob/images/src/app/app.component.ts)
+To have drag n drop. All you need is HTML DOM events.
+
+[Source](https://github.com/golfadas/dragndrop/blob/images/src/app/app.component.ts)
+
+[Live example](https://golfadas.github.io/dragndrop/)
 
 ![Drag and Drop example](/../images/images/dragndrop.gif?raw=true)
 
@@ -46,7 +50,10 @@ Subscribe to the drop event:
 ```
 
 Done!
+
 [Source](https://github.com/golfadas/dragndrop/blob/images/src/app/app.component.ts)
+
+[Live example](https://golfadas.github.io/dragndrop/)
 
 ## Development server
 

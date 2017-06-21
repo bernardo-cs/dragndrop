@@ -3,6 +3,15 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
+              <ul>
+                <li>
+                  <a href="https://github.com/golfadas/dragndrop">Repo</a>
+                </li>
+                <li>
+                  <a href="https://github.com/golfadas/dragndrop/blob/master/src/app/app.component.ts">Component Source</a>
+                </li>
+              </ul>
+
               <h3>Drag these guys: </h3>
               <div class="drag-area">
                 <ul>
